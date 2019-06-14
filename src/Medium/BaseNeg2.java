@@ -1,4 +1,4 @@
-package LeetCode1_100;
+package Medium;
 /*
 1017. 负二进制转换
 用户通过次数 156

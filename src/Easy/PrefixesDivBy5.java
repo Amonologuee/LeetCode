@@ -1,4 +1,4 @@
-package LeetCode1_100;
+package Easy;
 
 import com.sun.org.apache.xpath.internal.operations.Bool;
 

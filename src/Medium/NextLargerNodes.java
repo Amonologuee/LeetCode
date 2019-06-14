@@ -1,4 +1,4 @@
-package LeetCode1_100;
+package Medium;
 
 import java.util.ArrayList;
 import java.util.List;
