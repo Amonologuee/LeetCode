@@ -1,5 +1,7 @@
 package Easy;
 
+import SharedLib.TreeNode;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -18,10 +20,4 @@ public class FindTarget {
             return hasTarget(root.left,k,map) || hasTarget(root.right,k,map);
         }
     }
-}
- class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
 }
